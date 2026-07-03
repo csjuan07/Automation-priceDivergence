@@ -438,33 +438,8 @@ Monthly tracking of:
 
 
 
-Place a screenshot inside the repository and reference it below.
-
-
-
-```md
-
 images/dashboard-overview.png
 
-```
-
-
-
-Suggested location:
-
-
-
-```text
-
-images/
-
-└── dashboard-overview.png
-
-```
-
-
-
----
 
 
 
@@ -564,9 +539,9 @@ price-validation-automation/
 
 └── images/
 
-&#x20;   ├── dashboard-overview.png
+         ├── dashboard-overview.png
 
-&#x20;   └── workflow.png
+         └── workflow.png
 
 ```
 
@@ -584,27 +559,27 @@ price-validation-automation/
 
 
 
-✅ Automated monthly data processing
+- Automated monthly data processing
 
 
 
-✅ Reduced manual effort
+- Reduced manual effort
 
 
 
-✅ Standardized validation workflow
+- Standardized validation workflow
 
 
 
-✅ Reduced human error risk
+- Reduced human error risk
 
 
 
-✅ Automated KPI generation
+- Automated KPI generation
 
 
 
-✅ Centralized reporting
+- Centralized reporting
 
 
 
@@ -613,12 +588,4 @@ price-validation-automation/
 
 
 # Author
-
-
-
-Juan Santos
-
-
-
-Sourcing Intern | Procurement Automation | Power Automate | Office Scripts | Power BI | Data Analytics
 
