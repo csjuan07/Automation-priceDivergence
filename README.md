@@ -25,6 +25,15 @@ The solution automatically receives a monthly report, extracts transaction recor
 - Automated currency conversion, spend calculations and KPI generation.
 - Delivered interactive reporting through Power BI dashboards.
 
+## Impact
+
+### Business Impact
+
+- Reduced processing time from 20 minutes → **~2 minutes**
+- Automated validation of **~2000 records per month**
+- Eliminated **90%** of manual work
+- Enabled monthly KPI tracking
+
 
 ## Business Problem
 
@@ -557,7 +566,51 @@ price-validation-automation/
 
 ---
 
+## Technical Challenges & Solutions
 
+### 1. Power Automate Timeout Limits
+
+**Problem**
+Power Automate flows have execution time limits, causing failures when processing large datasets.
+
+**Solution**
+- Implemented **batch processing**
+- Split data into chunks of **400 rows**
+- Reduced execution time per run
+
+---
+
+### 2. Excel Online Performance Constraints
+
+**Problem**
+Excel Online becomes slow when inserting large volumes row-by-row.
+
+**Solution**
+- Used **array-based operations (Office Scripts)**
+- Implemented **bulk insertion**
+- Reduced API calls significantly
+
+---
+
+### 3. Data Consistency & Validation
+
+**Problem**
+Incoming files had inconsistent formats and missing fields.
+
+**Solution**
+- Added **validation layer before processing**
+- Implemented **fallback handling for null/invalid values**
+
+### 4. Scalability
+
+**Problem**
+Process needed to scale from hundreds → thousands of records.
+
+**Solution**
+- Designed architecture using:
+  - Stateless scripts
+  - Batch processing
+  - Modular workflow
 
 # Results
 
