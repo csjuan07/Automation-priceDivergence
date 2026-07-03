@@ -1,5 +1,6 @@
 # Automated ERP Price Validation
 
+An end-to-end automation pipeline designed to eliminate manual price validation processes and improve financial accuracy in supplier invoice analysis.
 
 
 ## Overview
@@ -15,7 +16,14 @@ The solution automatically receives a monthly report, extracts transaction recor
 
 
 ---
+## Key Technical Highlights
 
+- Built a complete automation pipeline using Power Automate, Office Scripts and Power BI.
+- Automated supplier invoice validation against ERP reference prices.
+- Implemented batch-processing techniques to improve Excel Online performance.
+- Developed business-rule driven matching and variance analysis logic.
+- Automated currency conversion, spend calculations and KPI generation.
+- Delivered interactive reporting through Power BI dashboards.
 
 
 ## Business Problem
@@ -364,7 +372,7 @@ Main business logic script.
 
 The project also includes a Power BI dashboard for monitoring pricing performance and supplier deviations.
 
-![](images/dashboard-overview.png)
+![dashboard](images/dashboard-overview.png)
 
 ## Dashboard Features
 
