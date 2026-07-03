@@ -364,7 +364,7 @@ Main business logic script.
 
 The project also includes a Power BI dashboard for monitoring pricing performance and supplier deviations.
 
-images/dashboard-overview.png
+![](images/dashboard-overview.png)
 
 ## Dashboard Features
 
