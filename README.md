@@ -584,8 +584,3 @@ price-validation-automation/
 
 
 ---
-
-
-
-# Author
-
