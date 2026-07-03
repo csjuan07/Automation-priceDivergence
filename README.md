@@ -54,53 +54,53 @@ The objective of this project was to create a fully automated process capable of
 
 Monthly Report
 
-&#x20;     │
+     │
 
-&#x20;     ▼
+     ▼
 
-&#x20;Outlook Email
+Outlook Email
 
-&#x20;     │
+     │
 
-&#x20;     ▼
+     ▼
 
-&#x20;Power Automate
+Power Automate
 
-&#x20;     │
+     │
 
-&#x20;     ▼
+     ▼
 
-&#x20;Office Scripts
+Office Scripts
 
-&#x20;     │
+     │
 
-&#x20;     ▼
+     ▼
 
-&#x20;Excel Validation Model
+Excel Validation Model
 
-&#x20;     │
+     │
 
-&#x20;     ▼
+     ▼
 
-&#x20;ERP Price Matching
+ERP Price Matching
 
-&#x20;     │
+     │
 
-&#x20;     ▼
+     ▼
 
-&#x20;KPI Generation
+KPI Generation
 
-&#x20;     │
+     │
 
-&#x20;     ▼
+     ▼
 
-&#x20;Power BI Dashboard
+Power BI Dashboard
 
-&#x20;     │
+     │
 
-&#x20;     ▼
+     ▼
 
-&#x20;Automated Reporting
+Automated Reporting
 
 ```
 
