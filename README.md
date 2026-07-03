@@ -274,7 +274,7 @@ Extracts worksheet data into arrays.
 
 
 
-## pastePDLotes.ts
+## .ts
 
 
 
@@ -519,7 +519,7 @@ price-validation-automation/
 
 │   ├── copyActual.ts
 
-│   ├── pastePDLotes.ts
+│   ├── pastePDbatch.ts
 
 │   └── updatePriceDivergence.ts
 
