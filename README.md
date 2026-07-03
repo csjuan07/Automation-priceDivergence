@@ -592,16 +592,7 @@ Excel Online becomes slow when inserting large volumes row-by-row.
 
 ---
 
-### 3. Data Consistency & Validation
-
-**Problem**
-Incoming files had inconsistent formats and missing fields.
-
-**Solution**
-- Added **validation layer before processing**
-- Implemented **fallback handling for null/invalid values**
-
-### 4. Scalability
+### 3. Scalability
 
 **Problem**
 Process needed to scale from hundreds → thousands of records.
